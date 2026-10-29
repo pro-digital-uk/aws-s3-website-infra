@@ -1,4 +1,4 @@
-team_name      = "alpha"
-aws_region     = "eu-west-2"
-project_name   = "personal-website"
-bucket_name    = "mupando"
+team_name    = "alpha"
+aws_region   = "eu-west-2"
+project_name = "personal-website"
+bucket_name  = "mupando"
