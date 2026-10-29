@@ -2,7 +2,7 @@ name: 'Dev Terraform Plan'
 
 on:
   push:
-    branches: ["develop", "collins", "kwam"]
+    branches: ["feature/*", "develop", "collins", "kwam"]
   pull_request:  
 
 permissions:
