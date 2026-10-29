@@ -1,4 +1,4 @@
-name: 'Terraform'
+name: 'Dev Terraform Plan'
 
 on:
   push:
