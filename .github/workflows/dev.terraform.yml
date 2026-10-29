@@ -2,10 +2,8 @@ name: 'Dev Terraform Plan'
 
 on:
   push:
-    branches: [ "main" , "develop"]
-  pull_request:
-    branches: [ "main" ]
-  
+    branches: ["develop", "collins", "kwam"]
+  pull_request:  
 
 permissions:
   contents: read
